@@ -18,19 +18,30 @@ Llama
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Der User muss Übersetzung eingeben.| Funktional | Als ein User möchte ich die Sprache wechseln können (Fremdsprache --> Deutsch/Deutsch --> Fremdsprache | 
+| 2    | Der User kann die Eingabe wiederholen wenn er sie zuerst falsch eingegeben hat | Funktional | Als User möchte ich meine flaschen Antowrten wiederholt eingeben|
+| 3    | Der User kann am Schluss seine Punktzahl sehen | Funktional | Als User möchte ich am Schluss meine Punktzahl sehen.| 
+| 4    | Der User kann am Schluss sehen nach 2. Runde wie er sich verbessert hat bzw. Highscore | Qualität| Als User möchte ich sehen wie ich mich verbessert habe nach dem ersten Mal. |
+| 5    | Als User kann ich eine Animation anschauen wenn ich ein Wort richtig habe. | Qualität | Als User möchte ich eine Animation wenn ich etwas richtig beantwortet habe.
+| 6    | Als User kann ich den Text gut erkennen auf dem Hintergrund | Qualität | Als User möchte ich eine gute Gestaltung. |
+| 7    | Als User kann ich mich einloggen | Qualität | Als User möchte ich mich einloggen und meine Ergebnisse sehen. |
+| 8    | Als User möchte ich eine Animation anschauen wenn ich ein Wort falsch habe.| Qualität | Als User möchte ich eine Animation wenn ich etwas falsch beantwortet habe. |
+| 9    | kann mich registrieren. | Qualität | Als User möchte ich wie bei einer Webseite ein Fenster haben, wo ich mich registrieren kann.
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
+
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+| 1.1  | Programm wird gestartet | welche Sprache | Sprache die User gewählt hat |
+| 2.1  | Eingabe von User ist Falsch | Hello --> Hund | nächstes Wort kommt |
+| 3.1  | Alle Wörter wurden Übersetzt | | Punktzahl wird angezeigt |
+| 4.1  | Alle Wörter wurden erneut Übersetzt | | Punktzahl von vorherigen Runde und dieser Runde verglichen und es wird gezeigt wie viel Punkte der User mehr hat. |
+| 5.1  | Programm wird gestartet | Hello --> Hallo | Animation für richtig | 
+| 7.1  | Programm wird gestartet | Name + Passwort | Begrüssung |
+| 8.1  | Programm wird gestartet | Hello --> Hund | Animation für falsch |
+| 9.1  | Programm wird gestartet | Name + Passwort + Passwort bestätigen | Begrüssung + Anleitung |
 
 ### 1.4 Diagramme
 
