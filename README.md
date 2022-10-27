@@ -4,15 +4,15 @@ Llama
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 27.10.2022 | 0.0.1   | User-Stories und Testfälle |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 27.10.2022 | 0.0.1 | User-Stories und Testfälle |
+| 27.10.2022 | 0.0.2 | Planen                       |
+
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Vocabeltrainer für Englisch und Deutsch
 
 ### 1.2 User Stories
 
