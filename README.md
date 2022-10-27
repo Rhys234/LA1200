@@ -4,7 +4,7 @@ Llama
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+| 27.10.2022 | 0.0.1   | User-Stories und Testfälle |
 |       | ...     |                                                              |
 |       | 1.0.0   |                                                              |
 
