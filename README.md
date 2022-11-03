@@ -55,8 +55,9 @@ Vocabeltrainer für Englisch und Deutsch
 | 2.A  |03.11.2022| Mohammad Bashiri | Grundlagen | 20 min. |
 | 3.A  |03.11.2022| Nils Wiederkehr | Lernbericht anfangen | 45 min. |
 | 4.A  |03.11.2022| Steven Salie | PAP | 30 min.  |
+| 4.A  |03.11.2022| Carina Sutter | Repetition Array + vertiefen| 2 stunden|
 
-Total: 140 min. = 2.33 stunden
+Total: 140 min. = 4.33
 
 ## 3 Entscheiden
 
@@ -66,10 +67,9 @@ Total: 140 min. = 2.33 stunden
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 03.11.2022 | Nils Wiederkehr  |  45 min  |                   |
+| 2.A  | 03.11.2022 | Mohammad Bashiri |  20 min  |     10 min   |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
 
