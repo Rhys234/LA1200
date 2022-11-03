@@ -55,7 +55,9 @@ Vocabeltrainer für Englisch und Deutsch
 | 2.A  |03.11.2022| Mohammad Bashiri | Grundlagen | 20 min. |
 | 3.A  |03.11.2022| Nils Wiederkehr | Lernbericht anfangen | 45 min. |
 | 4.A  |03.11.2022| Steven Salie | PAP | 30 min.  |
-| 4.A  |03.11.2022| Carina Sutter | Repetition Array + vertiefen| 2 stunden|
+| 5.A  |03.11.2022| Carina Sutter | Repetition Array + vertiefen| 2 stunden|
+| 6.A  |03.11.2022| Mohammad Bashiri | Animation | 1 h|
+| 7.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
 
 Total: 140 min. = 4.33
 
