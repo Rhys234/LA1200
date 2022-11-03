@@ -18,7 +18,7 @@ Vocabeltrainer für Englisch und Deutsch
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Der User muss Übersetzung eingeben.| Funktional | Als ein User möchte ich die Sprache wechseln können (Fremdsprache --> Deutsch/Deutsch --> Fremdsprache | 
+| 1    | Der User muss Übersetzung eingeben.| Funktional | Als ein User möchte ich die Sprache wechseln können (Russisch --> Deutsch/Deutsch --> Russisch | 
 | 2    | Der User kann die Eingabe wiederholen wenn er sie zuerst falsch eingegeben hat | Funktional | Als User möchte ich meine falschen Antowrten wiederholt eingeben|
 | 3    | Der User kann am Schluss seine Punktzahl sehen | Funktional | Als User möchte ich am Schluss meine Punktzahl sehen.| 
 | 4    | Der User kann am Schluss sehen nach 2. Runde wie er sich verbessert hat bzw. Highscore | Qualität| Als User möchte ich sehen wie ich mich verbessert habe nach dem ersten Mal. |
@@ -38,9 +38,9 @@ Vocabeltrainer für Englisch und Deutsch
 | 2.1  | Eingabe von User ist Falsch | Hello --> Hund | nächstes Wort kommt |
 | 3.1  | Alle Wörter wurden Übersetzt | | Punktzahl wird angezeigt |
 | 4.1  | Alle Wörter wurden erneut Übersetzt | | Punktzahl von vorherigen Runde und dieser Runde verglichen und es wird gezeigt wie viel Punkte der User mehr hat. |
-| 5.1  | Programm wird gestartet | Hello --> Hallo | Animation für richtig | 
+| 5.1  | Programm wird gestartet | Hello --> приветь | Animation für richtig | 
 | 7.1  | Programm wird gestartet | Name + Passwort | Begrüssung |
-| 8.1  | Programm wird gestartet | Hello --> Hund | Animation für falsch |
+| 8.1  | Programm wird gestartet | блять --> Hund | Animation für falsch |
 | 9.1  | Programm wird gestartet | Name + Passwort + Passwort bestätigen | Begrüssung + Anleitung |
 
 ### 1.4 Diagramme
