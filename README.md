@@ -61,6 +61,8 @@ Vocabeltrainer für Englisch und Deutsch
 | 7.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
 | 8.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
 | 9.A  |10.11.2022| Mohammad Bashiri | Einloggen und Anmelden | 45 min. |
+| 10.A |10.11.2022| Steven Salie | Punktzahl |
+| 11.A |10.11.2022| Carina Sutter | kann Wörter selber eingeben| 1 - 2 h|
 
 Total: 140 min. = 4.33
 
