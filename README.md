@@ -60,6 +60,7 @@ Vocabeltrainer für Englisch und Deutsch
 | 6.A  |03.11.2022| Mohammad Bashiri | Animation | 1 h|
 | 7.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
 | 8.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
+| 9.A  |10.11.2022| Mohammad Bashiri | Einloggen und Anmelden | 45 min. |
 
 Total: 140 min. = 4.33
 
