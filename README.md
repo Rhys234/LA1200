@@ -59,6 +59,7 @@ Vocabeltrainer für Englisch und Deutsch
 | 5.A  |03.11.2022| Carina Sutter | Repetition Array + vertiefen| 2 stunden|
 | 6.A  |03.11.2022| Mohammad Bashiri | Animation | 1 h|
 | 7.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
+| 8.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
 
 Total: 140 min. = 4.33
 
