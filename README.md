@@ -79,6 +79,7 @@ Total: 140 min. = 4.33
 | 1.A  | 03.11.2022 | Nils Wiederkehr  |  45 min  |                   |
 | 2.A  | 03.11.2022 | Mohammad Bashiri |  20 min  |     10 min   |
 | 9.A  | 10.11.2022 | Mohammad Bashiri |  45 min  |     65 min   |
+| 12.A | 10.11.2022 | Carina Sutter    | 1 - 2h   |      1h      |
 
 
 ## 5 Kontrollieren
