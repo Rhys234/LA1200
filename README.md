@@ -57,14 +57,13 @@ Vocabeltrainer für Englisch und Deutsch
 | 2.A  |03.11.2022| Mohammad Bashiri | Grundlagen | 20 min. |
 | 3.A  |03.11.2022| Nils Wiederkehr | Lernbericht anfangen | 45 min. |
 | 4.A  |03.11.2022| Steven Salie | PAP | 30 min.  |
-| 5.A  |03.11.2022| Carina Sutter | Repetition Array + vertiefen| 2 stunden|
-| 6.A  |03.11.2022| Mohammad Bashiri | Animation | 1 h|
-| 7.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
-| 8.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
-| 9.A  |10.11.2022| Mohammad Bashiri | Einloggen, Anmelden und Registrieren| 45 min. |
-| 10.A |10.11.2022| Steven Salie | Punktzahl |
-| 11.A |10.11.2022| Steven Salie | kann Wörter selber eingeben| 1 - 2hh|
-| 12.A |10.11.2022| Carina Sutter | Kann selber entscheiden, wie viele wörter man möchte| 1 - 2h|
+| 5.A  |03.11.2022| Mohammad Bashiri | Animation | 1 h|
+| 6.A  |03.11.2022| Steven Salie | Punktzahl anzeigen | 1 h|
+| 7.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
+| 8.A  |10.11.2022| Mohammad Bashiri | Einloggen, Anmelden und Registrieren| 45 min. |
+| 9.A  |10.11.2022| Steven Salie | Punktzahl |
+| 10.A |10.11.2022| Steven Salie | kann Wörter selber eingeben| 1 - 2hh|
+| 11.A |10.11.2022| Carina Sutter | Kann selber entscheiden, wie viele wörter man möchte| 1 - 2h|
 
 Total: 140 min. = 4.33
 
@@ -78,8 +77,8 @@ Total: 140 min. = 4.33
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 03.11.2022 | Nils Wiederkehr  |  45 min  |              |
 | 2.A  | 03.11.2022 | Mohammad Bashiri |  20 min  |     10 min   |
-| 9.A  | 10.11.2022 | Mohammad Bashiri |  45 min  |     65 min   |
-| 12.A | 10.11.2022 | Carina Sutter    | 1 - 2h   |      1.5h    |
+| 8.A  | 10.11.2022 | Mohammad Bashiri |  45 min  |     65 min   |
+| 11.A | 10.11.2022 | Carina Sutter    | 1 - 2h   |      1.5h    |
 
 
 ## 5 Kontrollieren
