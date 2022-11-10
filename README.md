@@ -26,7 +26,8 @@ Vocabeltrainer für Englisch und Deutsch
 | 6    | Als User kann ich den Text gut erkennen auf dem Hintergrund | Qualität | Als User möchte ich eine gute Gestaltung. |
 | 7    | Als User kann ich mich einloggen | Qualität | Als User möchte ich mich einloggen und meine Ergebnisse sehen. |
 | 8    | Als User möchte ich eine Animation anschauen wenn ich ein Wort falsch habe.| Qualität | Als User möchte ich eine Animation wenn ich etwas falsch beantwortet habe. |
-| 9    | Als User kann ich mich registrieren. | Qualität | Als User möchte ich wie bei einer Webseite ein Fenster haben, wo ich mich registrieren kann.
+| 9    | Als User kann ich mich registrieren. | Qualität | Als User möchte ich wie bei einer Webseite ein Fenster haben, wo ich mich registrieren kann.|
+| 10   | Als User kann ich aussuchen, wie viele Wörter ich im vorprogrammierten Code möchte haben. | Qualität | Als User möchte ich aussuchen können, wie viele Wörter ich im vorprogrammierten Code habe. |
 
 
 
