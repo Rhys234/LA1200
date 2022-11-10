@@ -44,8 +44,9 @@ Vocabeltrainer für Englisch und Deutsch
 | 9.1  | Programm wird gestartet | Name + Passwort + Passwort bestätigen | Begrüssung + Anleitung |
 
 ### 1.4 Diagramme
+![image](https://user-images.githubusercontent.com/111045708/201024596-5334e53b-832a-4504-b016-d30ff552600f.png)
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+
 
 ## 2 Planen
 
