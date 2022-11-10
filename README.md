@@ -63,7 +63,7 @@ Vocabeltrainer für Englisch und Deutsch
 | 8.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
 | 9.A  |10.11.2022| Mohammad Bashiri | Einloggen, Anmelden und Registrieren| 45 min. |
 | 10.A |10.11.2022| Steven Salie | Punktzahl |
-| 11.A |10.11.2022| Carina Sutter | kann Wörter selber eingeben| 1 - 2hh|
+| 11.A |10.11.2022| Steven Salie | kann Wörter selber eingeben| 1 - 2hh|
 | 12.A |10.11.2022| Carina Sutter | Kann selber entscheiden, wie viele wörter man möchte| 1 - 2h|
 
 Total: 140 min. = 4.33
@@ -76,10 +76,10 @@ Total: 140 min. = 4.33
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 03.11.2022 | Nils Wiederkehr  |  45 min  |                   |
+| 1.A  | 03.11.2022 | Nils Wiederkehr  |  45 min  |              |
 | 2.A  | 03.11.2022 | Mohammad Bashiri |  20 min  |     10 min   |
 | 9.A  | 10.11.2022 | Mohammad Bashiri |  45 min  |     65 min   |
-| 12.A | 10.11.2022 | Carina Sutter    | 1 - 2h   |      1h      |
+| 12.A | 10.11.2022 | Carina Sutter    | 1 - 2h   |      1.5h    |
 
 
 ## 5 Kontrollieren
