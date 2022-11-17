@@ -1,11 +1,13 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+Llama
+Carina Sutter, Mohammad Bashiri, Nils Wiederkehr, Steven Salie
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Ein Vokabeltrainer, mit dem Sie Wörter vom Deutschen ins Russische oder vom Russischen ins Deutsche lernen können.
 
-## Was habe ich gelernt?
+## Was haben wir gelernt?
+
 
 ✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
 
@@ -26,6 +28,6 @@
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
-👎 und etwas, was nicht gut lief.
+Es gab viele Dinge, die nicht wirklich gut liefen. Das erste war, dass einige von uns krankheitsbedingt fehlten oder einen Termin hatten. Zweitens waren wir zu ehrgeizig mit unseren Zielen und normalerweise würde ich sagen, dass das eine gute Sache ist, aber es hat viel Zeit gedauert, bis wir herausgefunden haben, dass das, was wir tun wollten, mit den uns gestellten Anforderungen nicht möglich war vom Lehrer.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
