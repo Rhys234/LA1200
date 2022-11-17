@@ -36,7 +36,7 @@ Vocabeltrainer für Englisch und Deutsch
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Programm wird gestartet | welche Sprache | Sprache die User gewählt hat |
-| 2.1  | Eingabe von User ist Falsch | Hello --> Hund | nächstes Wort kommt |
+| 2.1  | Eingabe von User ist Falsch | Hello --> огар | nächstes Wort kommt |
 | 3.1  | Alle Wörter wurden Übersetzt | | Punktzahl wird angezeigt |
 | 4.1  | Alle Wörter wurden erneut Übersetzt | | Punktzahl von vorherigen Runde und dieser Runde verglichen und es wird gezeigt wie viel Punkte der User mehr hat. |
 | 5.1  | Programm wird gestartet | Hello --> приветь | Animation für richtig | 
