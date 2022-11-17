@@ -114,5 +114,4 @@ Fazit: Bei den Testfällen mit dem Bindestrich konnten wir nicht umsetzen, weil 
 
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/BBBlernende/LA1200/blob/main/Lern-bericht.md
