@@ -28,6 +28,8 @@ Ein Vokabeltrainer, mit dem Sie Wörter vom Deutschen ins Russische oder vom Rus
 
 👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
 
-Es gab viele Dinge, die nicht wirklich gut liefen. Das erste war, dass einige von uns krankheitsbedingt fehlten oder einen Termin hatten. Zweitens waren wir zu ehrgeizig mit unseren Zielen und normalerweise würde ich sagen, dass das eine gute Sache ist, aber es hat viel Zeit gedauert, bis wir herausgefunden haben, dass das, was wir tun wollten, mit den uns gestellten Anforderungen nicht möglich war vom Lehrer.
+Es gab viele Dinge, die nicht wirklich gut liefen. Das erste war, dass einige von uns mehrfach krankheitsbedingt abwesend waren oder einen Termin hatten. 
+Zweitens waren wir zu ehrgeizig mit unseren Zielen und normalerweise würde ich sagen, dass das eine gute Sache ist, aber es hat viel Zeit gedauert, bis wir herausgefunden haben, was wir tun wollten, mit den uns gestellten Anforderungen nicht möglich war vom Lehrer. 
+Wir hatten auch Schwierigkeiten, einige Funktionen wie die Registrierung und Anmeldung zu implementieren.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
