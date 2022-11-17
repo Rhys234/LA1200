@@ -14,8 +14,32 @@ Wir haben gelernt wie man in einem einzelnen Code-Block, jedes Element eines Arr
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-Zuerst wusste ich nicht ganz, wie ich das anstellen soll. Nachdem ich ein bisschen ausprobiert habe, habe ich mein Problem auf Stack overflow geschildert. Nach kurzer Zeit habe ich eine Antwort bekommen, die Funktionierte.
-![Antwort](https://user-images.githubusercontent.com/111045656/202404770-6b6a71eb-83de-4b06-864d-75b93f603e0c.png)
+Zuerst wusste ich nicht ganz, wie ich das anstellen soll. Nachdem ich ein bisschen ausprobiert habe, habe ich mein Problem auf Stack overflow geschildert. Nach kurzer Zeit habe ich eine Antwort bekommen, die Funktionierte. Hier unten sehen sie den Code, der ich als Antwort bekommen habe und ich werde ihn erklären. Fangen wir oben an. Wie sie sehen steht ganz oben russianArray. Ein Array ist sozusagen eine Box wo wir mehrere Werte abspeichern können. In diesem Beispiel haben wir jetzt 5 Russische Wörter als Werte und im germanArray haben wir die 5 Übersetzungen von den 5 Russischen Wörtern. Um diese Arrays abzurufen habe ich in diesem Beispiel eine for schleife gemcht. Das was in der Klammer ist  Wenn i kleiner ist als die russianArray, wird i um eins erhöht.
+
+```csharp
+string[] russianArray = { "быть", "сказать", "мочь", "говорить", "знать" };
+string[] germanArray = { "zu sein, sein", "zu sagen,sprechen", "in der Lage sein", "zu sagen, erzählen, ersagen", "wissen, sich bewusst sein" };
+
+for (int i = 0; i < russianArray50.Length; i++)
+{
+
+    Console.WriteLine("Übersetzen Sie folgendes Wort: ");
+    Console.WriteLine(russianArray50[i]);
+    string russiantranslation = Console.ReadLine();
+
+    if (russiantranslation == germanArray50[i])
+    {
+        Console.WriteLine("Das ist richt! Sehr gut!");
+    }
+
+    else
+    {
+        Console.WriteLine("Das ist nicht richtig. Die richtige Antwort ist ");
+        Console.WriteLine(germanArray50[i]);
+    }
+}
+
+```
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
