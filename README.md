@@ -19,7 +19,7 @@ Llama
 
 ### 1.1 Ihr Projekt
 
-Vocabeltrainer für Englisch und Deutsch
+Vocabeltrainer für Russisch und Deutsch
 
 ### 1.2 User Stories
 
@@ -76,7 +76,8 @@ Total: 140 min. = 4.33
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Unser Wissensstand ist im Moment noch nicht so weit, dass wir Animationen programmieren können, deswegen können wir die Animationen noch nicht umsetzen.
+Ich konnte den Code für das Login nicht in den Code mit dem Vocabel trainer einfügen, deswegen konnt ich das nicht umsetzen.
 
 ## 4 Realisieren
 
