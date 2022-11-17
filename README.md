@@ -4,8 +4,15 @@ Llama
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 27.10.2022 | 0.0.1 | User-Stories und Testfälle |
-| 27.10.2022 | 0.0.2 | Planen                       |
+| 27.10.2022 | 1.0.1 | User-Stories und Testfälle |
+| 27.10.2022 | 1.0.2 | Planen                       |
+| 3.11.2022 | 2.0.1 | Mit Programmieren angefangen                      |
+| 10.11.2022 | 3.0.1 | Weiter programmiert                     |
+| 17.11.2022 | 3.0.2 | Bearbeitung und Zusammenführung der Programm                      |
+| 17.11.2022 | 4.0.1 | Projekt-Dokumentation ergänzt                    |
+| 17.11.2022 | 4.0.2| Lern-Bericht gemacht                   |
+
+
 
 
 ## 1 Informieren
@@ -62,7 +69,7 @@ Vocabeltrainer für Englisch und Deutsch
 | 7.A  |10.11.2022| Carina Sutter | Vorprogrammierte Wörter| 2h |
 | 8.A  |10.11.2022| Mohammad Bashiri | Einloggen, Anmelden und Registrieren| 45 min. |
 | 9.A  |10.11.2022| Steven Salie | Punktzahl |1h |
-| 10.A |10.11.2022| Carina Sutter| kann Wörter selber eingeben| 1 - 2hh|
+| 10.A |10.11.2022| Carina Sutter| kann Wörter selber eingeben| 1 - 2h|
 | 11.A |10.11.2022| Carina Sutter | Kann selber entscheiden, wie viele wörter man möchte| 1 - 2h|
 
 Total: 140 min. = 4.33
