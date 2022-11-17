@@ -15,6 +15,7 @@ Wir haben gelernt wie man in einem einzelnen Code-Block, jedes Element eines Arr
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
 Zuerst wusste ich nicht ganz, wie ich das anstellen soll. Nachdem ich ein bisschen ausprobiert habe, habe ich mein Problem auf Stack overflow geschildert. Nach kurzer Zeit habe ich eine Antwort bekommen, die Funktionierte.
+![Antwort](https://user-images.githubusercontent.com/111045656/202404770-6b6a71eb-83de-4b06-864d-75b93f603e0c.png)
 
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
