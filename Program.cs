@@ -194,16 +194,6 @@ if (question == "vor programmiert")
     }
 }
 
-
-
-
-
-
-
-
-
-
-
 if (question == "selber")
 {
     List<string> germanList = new List<string>();
