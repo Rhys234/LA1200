@@ -1,5 +1,5 @@
 # Lern-Bericht
-Llama
+### Llama
 Carina Sutter, Mohammad Bashiri, Nils Wiederkehr, Steven Salie
 
 ## Einleitung
