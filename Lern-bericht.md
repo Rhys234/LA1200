@@ -44,6 +44,9 @@ for (int i = 0; i < russianArray50.Length; i++)
 
 ```
 
+Hier sehen Sie die Ausgabe die kommen sollte.
+![Screenshot 2022-11-17 104731](https://user-images.githubusercontent.com/111045656/202413025-b628c3d7-51ee-4c52-ba99-3ba6e9835f11.png)
+
 
 
 ## Verifikation
