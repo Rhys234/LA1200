@@ -8,14 +8,14 @@ Ein Vokabeltrainer, mit dem Sie Wörter vom Deutschen ins Russische oder vom Rus
 
 ## Was haben wir gelernt?
 
-
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt wie man in einem einzelnen Code-Block, jedes Element eines Array nacheinander abfragen kann.
 
 ## Beschreibung
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
-* Eine textliche Beschreibung
+Zuerst wusste ich nicht ganz, wie ich das anstellen soll. Nachdem ich ein bisschen ausprobiert habe, habe ich mein Problem auf Stack overflow geschildert. Nach kurzer Zeit habe ich eine Antwort bekommen, die Funktionierte.
+
 * Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 * Ein gut dokumentierter Code-Fetzen
 * Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
