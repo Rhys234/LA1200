@@ -26,7 +26,7 @@ Ein Vokabeltrainer, mit dem Sie Wörter vom Deutschen ins Russische oder vom Rus
 
 # Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief; 
+Was ich wirklich gut fand, war unsere Teamarbeit bei diesem Projekt. Alle taten was ihnen aufgetragen wurde und erledigten ihre Arbeit pünktlich.
 
 Es gab viele Dinge, die nicht wirklich gut liefen. Das erste war, dass einige von uns mehrfach krankheitsbedingt abwesend waren oder einen Termin hatten. 
 Zweitens waren wir zu ehrgeizig mit unseren Zielen und normalerweise würde ich sagen, dass das eine gute Sache ist, aber es hat viel Zeit gedauert, bis wir herausgefunden haben, was wir tun wollten, mit den uns gestellten Anforderungen nicht möglich war vom Lehrer. 
