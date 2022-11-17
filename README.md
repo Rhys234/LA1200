@@ -40,9 +40,9 @@ Vocabeltrainer für Englisch und Deutsch
 | 3.1  | Alle Wörter wurden Übersetzt | | Punktzahl wird angezeigt |
 | 4.1  | Alle Wörter wurden erneut Übersetzt | | Punktzahl von vorherigen Runde und dieser Runde verglichen und es wird gezeigt wie viel Punkte der User mehr hat. |
 | 5.1  | Programm wird gestartet | Hello --> приветь | Animation für richtig | 
-| 7.1  | Programm wird gestartet | Name + Passwort | Begrüssung |
-| 8.1  | Programm wird gestartet | блять --> Hund | Animation für falsch |
-| 9.1  | Programm wird gestartet | Name + Passwort + Passwort bestätigen | Begrüssung + Anleitung |
+| 6.1  | Programm wird gestartet | Name + Passwort | Begrüssung |
+| 7.1  | Programm wird gestartet | блять --> Hund | Animation für falsch |
+| 8.1  | Programm wird gestartet | Name + Passwort + Passwort bestätigen | Begrüssung + Anleitung |
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111045708/201024596-5334e53b-832a-4504-b016-d30ff552600f.png)
@@ -92,9 +92,12 @@ Total: 140 min. = 4.33
 | 3.1  | 17.11.2022| Funktioniert nicht | Steven|
 | 3.2  | 17.11.2022| Funktioniert| Steven|
 | 4.1  | -    |     -     |    -   |
+| 5.1  | - | - | - |
+| 6.1 | - | - | - |
+| 7.1 | - | - | - |
+| 8.1 | - | - | - |
 
-
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Fazit: Bei den Testfällen mit dem Bindestrich konnten wir nicht umsetzen, weil wir das noch nicht können.
 
 
 ## 6 Auswerten
