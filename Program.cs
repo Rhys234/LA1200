@@ -193,17 +193,6 @@ if (question == "vorprogrammiert")
 
     }
 }
-
-
-
-
-
-
-
-
-
-
-
 if (question == "selber")
 {
     List<string> germanList = new List<string>();
