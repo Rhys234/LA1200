@@ -77,7 +77,7 @@ Total: 140 min. = 4.33
 ## 3 Entscheiden
 
 Unser Wissensstand ist im Moment noch nicht so weit, dass wir Animationen programmieren können, deswegen können wir die Animationen noch nicht umsetzen.
-Ich konnte den Code für das Login nicht in den Code mit dem Vocabel trainer einfügen, deswegen konnt ich das nicht umsetzen.
+Ich konnte den Code für das Login nicht in den Code mit dem Vokabeltrainer einfügen, deswegen konnte ich das nicht umsetzen.
 
 ## 4 Realisieren
 
