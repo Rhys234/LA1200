@@ -87,8 +87,12 @@ Total: 140 min. = 4.33
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |  -    |     -    |   -    |
+| 2.1  | 17.11.2022| Funktioniert|Carina + Steven|
+| 3.1  | 17.11.2022| Funktioniert nicht | Steven|
+| 3.2  | 17.11.2022| Funktioniert| Steven|
+| 4.1  | -    |     -     |    -   |
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
