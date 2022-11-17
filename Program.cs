@@ -9,10 +9,10 @@ int p = 0;
 
 
 Console.OutputEncoding = Encoding.UTF8;
-Console.WriteLine("Wollen Sie ein vorprogrammiertes Programm oder selber Ihre Wörter eingeben? [vor programmiert|selber] \nВы хотите набрать свои собственные Слова или вы хотите иметь предварительно запрограммированную версию? [своими словами|предупретованной]");
+Console.WriteLine("Wollen Sie ein vorprogrammiertes Programm oder selber Ihre Wörter eingeben? [vorprogrammiert|selber] \nВы хотите набрать свои собственные Слова или вы хотите иметь предварительно запрограммированную версию? [своими словами|предупретованной]");
 string question = Console.ReadLine();
 
-if (question == "vor programmiert")
+if (question == "vorprogrammiert")
 {
     Console.WriteLine("Wie viele Wörter möchten Sie? [10|20|30|40|50]: ");
     int numberWords = Convert.ToInt32(Console.ReadLine());
@@ -35,7 +35,7 @@ if (question == "vor programmiert")
                 if (russiantranslation == germanArray50[i])
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Das ist richt! Sehr gut!");
+                    Console.WriteLine("Das ist richtig! Sehr gut!");
                     Console.ResetColor();
                     p++;
                 }
@@ -69,7 +69,7 @@ if (question == "vor programmiert")
                 if (russiantranslation == germanArray40[i])
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Das ist richt! Sehr gut!");
+                    Console.WriteLine("Das ist richtig! Sehr gut!");
                     Console.ResetColor();
                     p++;
                 }
@@ -103,7 +103,7 @@ if (question == "vor programmiert")
                 if (russiantranslation == germanArray30[i])
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Das ist richt! Sehr gut!");
+                    Console.WriteLine("Das ist richtig! Sehr gut!");
                     Console.ResetColor();
                     p++;
                 }
@@ -136,7 +136,7 @@ if (question == "vor programmiert")
                 if (russiantranslation == germanArray20[i])
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Das ist richt! Sehr gut!");
+                    Console.WriteLine("Das ist richtig! Sehr gut!");
                     Console.ResetColor();
                     p++;
                 }
@@ -169,7 +169,7 @@ if (question == "vor programmiert")
                 if (russiantranslation == germanArray10[i])
                 {
                     Console.ForegroundColor = ConsoleColor.Blue;
-                    Console.WriteLine("Das ist richt! Sehr gut!");
+                    Console.WriteLine("Das ist richtig! Sehr gut!");
                     Console.ResetColor();
                     p++;
                 }
@@ -193,6 +193,16 @@ if (question == "vor programmiert")
 
     }
 }
+
+
+
+
+
+
+
+
+
+
 
 if (question == "selber")
 {
@@ -232,7 +242,7 @@ if (question == "selber")
         if (russiantranslation == germanList[i])
         {
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("Das ist richt! Sehr gut!");
+            Console.WriteLine("Das ist richtig! Sehr gut!");
             Console.ResetColor();
         }
 
